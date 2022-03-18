@@ -1,1 +1,2 @@
 Test
+Ovo je promjena koja će biti vidljiva u Gitu
